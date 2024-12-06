@@ -28,7 +28,6 @@ Bu proje iki ana klasör içerir:
 
 - HTML5
 - CSS3
-- JavaScript (script.js dosyası belirtilmiş ancak içeriği sağlanmamış)
 
 ## Kurulum
 
