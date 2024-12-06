@@ -81,7 +81,3 @@ Ana renkler ve yazı tipleri `styles.css` dosyasının başındaki CSS değişke
 3. Değişikliklerinizi commit edin (`git commit -am 'Yeni özellik: Açıklama'`)
 4. Dalınıza push yapın (`git push origin yeni-ozellik`)
 5. Bir Pull Request oluşturun
-
-## Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakın.
